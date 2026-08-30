@@ -2,3 +2,4 @@
 ---
 Texto do meio modificado
 ---
+==RODAPE==
