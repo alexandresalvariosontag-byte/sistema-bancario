@@ -1,4 +1,4 @@
-==CABEÇALHO==
+==CABEcALHO==
 ---
 Texto do meio modificado
 ---
