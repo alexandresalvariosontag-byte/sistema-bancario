@@ -1,5 +1,5 @@
 ==CABEcALHO==
 ---
-Texto do meio modificado
+Texto do meio
 ---
 ==RODAPE==
