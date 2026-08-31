@@ -2,4 +2,4 @@
 ---
 Texto do meio
 ---
-==RODAPE==
+==RODAPe==
